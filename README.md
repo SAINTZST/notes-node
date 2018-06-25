@@ -1,2 +1,2 @@
 # notes-node
-Create notes app with nodejs
+Learning Node.js Fundametals by creating notes app
