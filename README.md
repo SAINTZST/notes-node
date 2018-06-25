@@ -1,2 +1,2 @@
 # notes-node
-Learning Node.js Fundametals by creating notes app
+Learning Node.js Fundamentals by creating notes app
