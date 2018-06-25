@@ -1,0 +1,22 @@
+[
+    {
+        "title": "My title",
+        "body": "This is my first note"
+    },
+    {
+        "title": "My title 5",
+        "body": "This is my fourth note"
+    },
+    {
+        "title": "Test Log",
+        "body": "This note just added for test log function"
+    },
+    {
+        "title": "Flag title",
+        "body": "Body in flag t"
+    },
+    {
+        "title": "Test flag body",
+        "body": "Test flag body"
+    }
+]
